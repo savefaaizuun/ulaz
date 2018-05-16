@@ -1,0 +1,7 @@
+Suggested Image Sizes
+
+Background Image/Slider/Video: 2048×1365px, 20mb mp4 video
+Our Focus - 150x150px
+Our Team - 174x174px
+Testimonial - 73x73px
+Client Logo - 130x50px
